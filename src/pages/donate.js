@@ -21,10 +21,6 @@ function Donate() {
         let res = await axios.post("https://my-json-server.typicode.com/radhakishan404/donatebloodapi/user", payload);
         if (res.status === 201) {
             setFormSubmitted(true);
-            setName("");
-            setMobile("");
-            setSlots("");
-            setMessage("");
         } else {
             alert("Something went wrong");
         }
