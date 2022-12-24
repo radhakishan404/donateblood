@@ -22,7 +22,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/tips-appointment.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/tips-appointment.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Make an Appointment</h4>
@@ -38,7 +38,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/fish.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/fish.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Get the Dish on Nutrition</h4>
@@ -54,7 +54,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/rest.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/rest.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Be Well Rested and Hydrate</h4>
@@ -79,7 +79,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/glass-water.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/glass-water.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Drink Water</h4>
@@ -95,7 +95,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/cookie-snack.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/cookie-snack.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Eat Healthy</h4>
@@ -111,7 +111,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/tips-medication-list.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/tips-medication-list.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Medication List</h4>
@@ -136,7 +136,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/cookie-snack.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/cookie-snack.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Enjoy a Snack</h4>
@@ -152,7 +152,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/tips-tell-others.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/tips-tell-others.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Tell Others About Your Good Deed</h4>
@@ -168,7 +168,7 @@ function Information() {
                                             <div class="container-flex">
                                                 <div class="container-flex icon">
                                                     <div class="icon-link">
-                                                        <img loading="lazy" class="icon-image" src="/assets/images/glass-water.png" alt="tips" />
+                                                        <img loading="lazy" class="icon-image" src="assets/images/glass-water.png" alt="tips" />
                                                     </div>
                                                 </div>
                                                 <h4 class="card-title" >Drink Extra Liquids</h4>
